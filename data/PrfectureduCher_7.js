@@ -1,1 +1,0 @@
-var json_PrfectureduCher_7 = {"type":"FeatureCollection","name":"PrfectureduCher_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"5","Nom":"Bourges"},"geometry":{"type":"Point","coordinates":[2.391127678161991,47.087221102600559]}}]}
